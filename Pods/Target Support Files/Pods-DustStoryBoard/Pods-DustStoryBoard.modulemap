@@ -1,0 +1,6 @@
+framework module Pods_DustStoryBoard {
+  umbrella header "Pods-DustStoryBoard-umbrella.h"
+
+  export *
+  module * { export * }
+}
